@@ -1,1 +1,2 @@
 # srilife
+open esxe
