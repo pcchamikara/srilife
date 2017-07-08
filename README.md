@@ -1,2 +1,3 @@
 # srilife
 open esxe
+esososs
